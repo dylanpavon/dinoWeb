@@ -1,3 +1,5 @@
+# comentario de Eze
+
 import openai
 
 openai.api_key = "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" 
